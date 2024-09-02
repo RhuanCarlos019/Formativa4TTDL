@@ -62,6 +62,11 @@ Desenvolver uma aplicação web de To-Do List utilizando tecnologias modernas e 
   - **Mitigação:** Planejamento de arquitetura escalável e testes de carga antes do lançamento.
 - **Risco:** Falta de adesão dos usuários à nova ferramenta.
   - **Mitigação:** Envolvimento dos usuários finais durante o processo de desenvolvimento para garantir que suas necessidades sejam atendidas.
+ 
+
+## Diagrama: 
+<img width="397" alt="image" src="https://github.com/user-attachments/assets/e181d5c0-7d3a-4a2d-ac0e-e63d3eb11c35">
+
 
 ## Resultado Esperado
 
